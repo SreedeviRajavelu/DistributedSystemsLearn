@@ -7,3 +7,7 @@ https://www.yugabyte.com/tech/raft-consensus-algorithm/#:~:text=Raft%20is%20a%20
 The Chubby Lock Service: Enabling Robustness in Distributed Systems
 
 https://www.linkedin.com/pulse/chubby-lock-service-enabling-robustness-distributed-systems-n-gr8ac/
+
+
+The Chubby lock service for loosely-coupled distributed systems
+https://amplab.github.io/cs262a-fall2016/notes/22-Chubby.pdf
